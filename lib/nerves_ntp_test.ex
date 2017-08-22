@@ -1,0 +1,3 @@
+defmodule NervesNtpTest do
+  
+end
